@@ -1,2 +1,3 @@
 # 03_05 Challenge Connect Jenkins to GitHub
-![image](https://github.com/user-attachments/assets/b70ed28a-979b-4259-9626-4d5931780208)
+
+[![Build Status](http://ec2-44-204-45-187.compute-1.amazonaws.com:8080/buildStatus/icon?job=Challenge+Connect+Jenkins+to+GitHub)](http://ec2-18-234-143-16.compute-1.amazonaws.com:8080/job/Challenge%20Connect%20Jenkins%20to%20GitHub/)
